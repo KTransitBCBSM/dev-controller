@@ -1,0 +1,4 @@
+variables:
+- team: KTransitBCBSM
+- admin-user: kentbcbms-admin
+- manager-user: kentbcbms
